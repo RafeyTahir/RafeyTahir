@@ -23,7 +23,7 @@ Here are some ideas to get you started:
 
 - 🤝 I’m looking for help with **Model-free control Design for Underactuated Mechanical Systems with higher degree of Underactuation**
 
-- 👨‍💻 All of my projects are available at [github.com/rafeytahir](github.com/rafeytahir)
+- 👨‍💻 All of my projects are available at [github.com/RafeyTahir](github.com/RafeyTahir)
 
 - 😄 Pronouns: he/him
 
