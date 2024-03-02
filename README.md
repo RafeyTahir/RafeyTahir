@@ -14,7 +14,7 @@ Here are some ideas to get you started:
 -->
 <h1 align="center">Hi 👋, I'm Muhammad Rafey Tahir</h1>
 
-- 🔭 I’m currently working on a **Underactuated Mechanical Systems, Reinforcement Learning**
+- 🔭 I’m currently working on **Robotics, Reinforcement Learning**
 - 🤝 I’ve completed my **Masters in Electrical Engineering** at the National University of Sciences and Technology (NUST)
 
 - 🌱 I’m currently learning **Underactuated Robotics, Reinforcement Learning, Humanoid Robots and Data Driven Control**
